@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-Este repositório contém uma aplicação prática desenvolvida com o objetivo de consolidar os estudos teóricos sobre WebSockets utilizando o framework Django (através do Django Channels). O foco principal deste projeto não é a estética da interface ou a preparação para um ambiente de produção, mas sim a compreensão técnica de como a comunicação bidirecional em tempo real funciona sob o capô.
+Este repositório contém uma aplicação prática desenvolvida com o objetivo de consolidar os estudos teóricos sobre WebSockets utilizando o framework Django (através do Django Channels). O foco principal deste projeto não é a estética da interface ou a preparação para um ambiente de produção, mas sim a compreensão técnica de como a comunicação bidirecional em tempo real funciona.
 
 A aplicação demonstra um sistema de chat simples, onde mensagens podem ser trocadas instantaneamente entre múltiplas abas do navegador operando em `localhost`. 
 
